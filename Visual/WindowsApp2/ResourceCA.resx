@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Alt" xml:space="preserve">
+    <value>Alt</value>
+  </data>
+  <data name="Baix" xml:space="preserve">
+    <value>Baix</value>
+  </data>
+  <data name="be" xml:space="preserve">
+    <value>Bé</value>
+  </data>
+  <data name="bt_iniciar" xml:space="preserve">
+    <value>Iniciar</value>
+  </data>
+  <data name="bt_Registrar" xml:space="preserve">
+    <value>Registrar-se</value>
+  </data>
+  <data name="DescarregarCur" xml:space="preserve">
+    <value>Descarregar Curriculum</value>
+  </data>
+  <data name="Feta" xml:space="preserve">
+    <value>Feta</value>
+  </data>
+  <data name="Label1_selec_idioma" xml:space="preserve">
+    <value>Seleccionar Idioma</value>
+  </data>
+  <data name="Label1_usuario" xml:space="preserve">
+    <value>Usuari:</value>
+  </data>
+  <data name="LabelNievell" xml:space="preserve">
+    <value>Nivell:</value>
+  </data>
+  <data name="label_baixa" xml:space="preserve">
+    <value>Donar-se de baixa</value>
+  </data>
+  <data name="Label_categ2" xml:space="preserve">
+    <value>Categoria:</value>
+  </data>
+  <data name="Label_categoria" xml:space="preserve">
+    <value>Categoria:</value>
+  </data>
+  <data name="label_contra" xml:space="preserve">
+    <value>Contrasenya:</value>
+  </data>
+  <data name="Label_desc2" xml:space="preserve">
+    <value>Descripció:</value>
+  </data>
+  <data name="label_descr" xml:space="preserve">
+    <value>Descripció:</value>
+  </data>
+  <data name="Label_Incid" xml:space="preserve">
+    <value>Incidències</value>
+  </data>
+  <data name="Label_informatic" xml:space="preserve">
+    <value>Informàtic:</value>
+  </data>
+  <data name="label_Poblacio" xml:space="preserve">
+    <value>Població:</value>
+  </data>
+  <data name="label_Provincia" xml:space="preserve">
+    <value>Província:</value>
+  </data>
+  <data name="label_tit2" xml:space="preserve">
+    <value>Títol:</value>
+  </data>
+  <data name="Label_titol" xml:space="preserve">
+    <value>Títol:</value>
+  </data>
+  <data name="lavel_valoracio" xml:space="preserve">
+    <value>Valoració</value>
+  </data>
+  <data name="mal" xml:space="preserve">
+    <value>Malament</value>
+  </data>
+  <data name="Mitja" xml:space="preserve">
+    <value>Mitja</value>
+  </data>
+  <data name="NomInformatic" xml:space="preserve">
+    <value>Incidència No assignada</value>
+  </data>
+  <data name="regular" xml:space="preserve">
+    <value>Regular</value>
+  </data>
+  <data name="sortir" xml:space="preserve">
+    <value>Sortir</value>
+  </data>
+  <data name="Baixa" xml:space="preserve">
+    <value>Baixa</value>
+  </data>
+  <data name="Fetes" xml:space="preserve">
+    <value>Fetes</value>
+  </data>
+  <data name="nom_usuari" xml:space="preserve">
+    <value>Nom usuari:</value>
+  </data>
+  <data name="bt_Registrar2" xml:space="preserve">
+    <value>Registrar-se</value>
+  </data>
+  <data name="cognomI" xml:space="preserve">
+    <value>Cognom:</value>
+  </data>
+  <data name="label_cognom" xml:space="preserve">
+    <value>Cognom:</value>
+  </data>
+  <data name="label_dni" xml:space="preserve">
+    <value>DNI:</value>
+  </data>
+  <data name="label_nom" xml:space="preserve">
+    <value>Nom:</value>
+  </data>
+  <data name="nomI" xml:space="preserve">
+    <value>Nom:</value>
+  </data>
+  <data name="passI" xml:space="preserve">
+    <value>Contrasenya</value>
+  </data>
+  <data name="userI" xml:space="preserve">
+    <value>Usuari:</value>
+  </data>
+  <data name="curricuI" xml:space="preserve">
+    <value>Curriculum</value>
+  </data>
+  <data name="dniI" xml:space="preserve">
+    <value>DNI:</value>
+  </data>
+  <data name="pobI" xml:space="preserve">
+    <value>Població:</value>
+  </data>
+  <data name="provinI" xml:space="preserve">
+    <value>Província:</value>
+  </data>
+  <data name="Guardar" xml:space="preserve">
+    <value>Crear</value>
+  </data>
+</root>

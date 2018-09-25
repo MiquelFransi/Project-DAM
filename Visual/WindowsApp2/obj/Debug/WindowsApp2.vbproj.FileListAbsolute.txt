@@ -1,0 +1,158 @@
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Baixa.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Contacte.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.FAQ.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Foro.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Incidencia.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form2.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Principal.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Informatic.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Usuari.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Pantalla.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resgistre.resources
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+d:\Users\alumne\Desktop\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\bin\Debug\WindowsApp2.exe
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\bin\Debug\WindowsApp2.pdb
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\bin\Debug\WindowsApp2.xml
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQ.resources
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Principal.resources
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Pantalla.resources
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.exe
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.xml
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.pdb
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Registrarse.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Principal.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Pantalla.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Registrarse.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Principal.resources
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Pantalla.resources
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Registrarse.resources
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.Cache
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.PrinInformaticvb.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.PrinInformaticvb.resources
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarInfo.resources
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarUser.resources
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarInfo.resources
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarUser.resources
+d:\Users\alumne\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.PrinInformaticvb.resources
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQS.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarInfo.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarUser.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQS.resources
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe.config
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.pdb
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.xml
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.exe
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.xml
+d:\Users\49535631W\Desktop\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.pdb
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.exe
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.xml
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.pdb
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe.config
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.pdb
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.xml
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceEs.resources
+d:\Users\49535631W\Documents\DAM2\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceCA.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe.config
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.pdb
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.xml
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarInfo.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarUser.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQS.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Principal.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Pantalla.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.PrinInformaticvb.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Registrarse.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceEs.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceCA.resources
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.exe
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.xml
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.pdb
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe.config
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.pdb
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.xml
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarInfo.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarUser.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQS.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Principal.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Pantalla.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.PrinInformaticvb.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Registrarse.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceEs.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceCA.resources
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.exe
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.xml
+F:\Users\maik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.pdb
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe.config
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.pdb
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.xml
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarInfo.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarUser.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQS.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQSES.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Principal.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Pantalla.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.PrinInformaticvb.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Registrarse.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceEs.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceCA.resources
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.exe
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.xml
+F:\Users\MAik\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.pdb
+C:\Users\MAik\Desktop\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQSES.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe.config
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.exe
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.pdb
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\bin\Debug\MYTEC.xml
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbprojResolveAssemblyReference.cache
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarInfo.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.BorrarUser.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQS.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.FAQSES.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Principal.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Pantalla.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.PrinInformaticvb.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.Registrarse.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceEs.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.ResourceCA.resources
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.exe
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.xml
+C:\Users\santi\Desktop\MYTEC\PROJECTS\Visual Diseny\WindowsApp2\obj\Debug\MYTEC.pdb

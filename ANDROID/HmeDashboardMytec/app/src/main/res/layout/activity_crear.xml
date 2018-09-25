@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ligu.hmedashboardmytec.crear">
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true"
+        >
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginEnd="12dp"
+        android:layout_marginRight="12dp">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="33dp"
+            android:layout_marginStart="33dp"
+            android:layout_marginTop="37dp"
+            android:text="@string/titol" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView2"
+            android:layout_alignStart="@+id/textView2"
+            android:layout_below="@+id/titol"
+            android:layout_marginTop="23dp"
+            android:text="@string/descripcio" />
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView3"
+            android:layout_alignStart="@+id/textView3"
+            android:layout_below="@+id/descripcio"
+            android:layout_marginTop="24dp"
+            android:text="@string/provincia" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView4"
+            android:layout_alignStart="@+id/textView4"
+            android:layout_centerVertical="true"
+            android:text="@string/poblacio" />
+
+        <TextView
+            android:id="@+id/cate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/textView5"
+            android:layout_alignStart="@id/textView5"
+            android:layout_below="@id/poblacio"
+            android:layout_marginTop="21dp"
+            android:text="@string/categoria" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/cate"
+            android:layout_alignStart="@id/cate"
+            android:layout_below="@id/cate"
+            android:layout_marginTop="59dp"
+            android:text="@string/nivell" />
+
+
+        <EditText
+            android:id="@+id/descripcio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/textView3"
+            android:layout_marginEnd="16dp"
+            android:layout_marginRight="16dp"
+            android:ems="10"
+            android:inputType="textMultiLine" />
+
+        <EditText
+            android:id="@+id/titol"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/descripcio"
+            android:layout_alignStart="@id/descripcio"
+            android:layout_alignTop="@id/textView2"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/provincia"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/descripcio"
+            android:layout_alignStart="@+id/descripcio"
+            android:layout_alignTop="@+id/textView4"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <EditText
+            android:id="@+id/poblacio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/provincia"
+            android:layout_alignStart="@+id/provincia"
+            android:layout_alignTop="@+id/textView5"
+            android:ems="10"
+            android:inputType="textPersonName" />
+
+        <Spinner
+            android:id="@+id/categoria"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/poblacio"
+            android:layout_alignStart="@+id/poblacio"
+            android:layout_alignTop="@+id/cate"
+            android:ems="10"
+            android:inputType="textMultiLine" />
+
+
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignRight="@id/descrip"
+            android:layout_marginStart="130dp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/categoria">
+
+
+            <RadioButton
+                android:id="@+id/baix"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/poblacio"
+                android:layout_alignRight="@+id/poblacio"
+                android:layout_alignTop="@+id/textView7"
+                android:layout_marginEnd="12dp"
+                android:layout_marginRight="12dp"
+                android:text="@string/baix" />
+
+            <RadioButton
+                android:id="@+id/mitja"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/textView7"
+                android:layout_toEndOf="@+id/textView4"
+                android:layout_toRightOf="@+id/textView4"
+                android:text="@string/mitja" />
+
+            <RadioButton
+                android:id="@+id/alt"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/baix"
+                android:layout_alignBottom="@+id/baix"
+                android:layout_marginEnd="24dp"
+                android:layout_marginRight="24dp"
+                android:layout_toLeftOf="@+id/baix"
+                android:layout_toStartOf="@+id/baix"
+                android:text="@string/alt" />
+
+        </RadioGroup>
+
+
+        <Button
+            android:id="@+id/crear"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignEnd="@+id/poblacio"
+            android:layout_alignParentBottom="true"
+            android:layout_alignRight="@+id/poblacio"
+            android:backgroundTint="@color/backgroundcolor"
+            android:layout_marginEnd="38dp"
+            android:layout_marginRight="38dp"
+            android:text="@string/crear" />
+
+
+
+    </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

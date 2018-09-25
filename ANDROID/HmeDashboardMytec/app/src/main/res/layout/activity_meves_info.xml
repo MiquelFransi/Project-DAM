@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ligu.hmedashboardmytec.meves">
+    <ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:fillViewport="true">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true">
+
+            <Spinner
+                android:id="@+id/categoria"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/descrip"
+                android:textColor="#000"
+                android:layout_alignStart="@+id/descrip"
+                android:layout_alignTop="@+id/textView10"
+                />
+
+            <TextView
+                android:id="@+id/textView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginLeft="14dp"
+                android:layout_marginStart="14dp"
+                android:layout_marginTop="40dp"
+                android:text="@string/incidencies" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/titol"
+                android:layout_alignBottom="@+id/titol"
+                android:layout_alignLeft="@+id/textView"
+                android:layout_alignStart="@+id/textView"
+                android:text="@string/titol" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/textView8"
+                android:layout_alignStart="@id/textView8"
+                android:layout_below="@id/titol"
+                android:layout_marginTop="32dp"
+                android:text="@string/descripcio" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/textView9"
+                android:layout_alignStart="@id/textView9"
+                android:layout_below="@+id/descrip"
+                android:layout_marginTop="18dp"
+                android:text="@string/categoria" />
+
+            <TextView
+                android:id="@+id/textView11"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/textView10"
+                android:layout_alignStart="@+id/textView10"
+                android:layout_below="@+id/categoria"
+                android:layout_marginTop="16dp"
+                android:text="@string/usuari" />
+
+            <TextView
+                android:id="@+id/textView12"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@id/textView11"
+                android:layout_alignStart="@id/textView11"
+                android:layout_below="@id/textView11"
+                android:layout_marginTop="24dp"
+                android:text="@string/feta" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/textView10"
+                android:layout_alignStart="@+id/textView10"
+                android:layout_alignTop="@+id/valoracio"
+                android:layout_marginTop="16dp"
+                android:text="@string/valoracio" />
+
+            <Spinner
+                android:id="@+id/incidencies"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@+id/textView"
+                android:layout_marginLeft="32dp"
+                android:layout_marginStart="32dp"
+                android:layout_toEndOf="@+id/textView"
+                android:textColor="#000"
+                android:layout_toRightOf="@+id/textView" />
+
+            <TextView
+                android:id="@+id/titol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/incidencies"
+                android:layout_alignLeft="@+id/incidencies"
+                android:layout_alignRight="@+id/incidencies"
+                android:layout_alignStart="@+id/incidencies"
+                android:layout_below="@+id/incidencies"
+                android:layout_marginTop="20dp"
+                android:ems="10"
+                android:inputType="textPersonName" />
+
+            <TextView
+                android:id="@+id/descrip"
+                android:layout_width="200dp"
+                android:layout_height="40dp"
+                android:layout_alignBaseline="@+id/textView9"
+                android:layout_alignBottom="@+id/textView9"
+                android:layout_alignLeft="@+id/titol"
+                android:layout_alignStart="@+id/titol"
+                android:ems="10"
+                android:inputType="textMultiLine" />
+
+            <RadioGroup
+                android:id="@+id/radioGroup2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/informatic"
+                android:layout_alignStart="@+id/informatic"
+                android:layout_below="@+id/informatic">
+
+
+                <RadioButton
+                    android:id="@+id/siFeta"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignTop="@+id/textView12"
+                    android:layout_marginEnd="24dp"
+                    android:layout_marginRight="24dp"
+                    android:layout_marginTop="20dp"
+                    android:layout_toLeftOf="@+id/noFeta"
+                    android:layout_toStartOf="@+id/noFeta"
+                    android:text="@string/si" />
+
+                <RadioButton
+                    android:id="@+id/noFeta"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBaseline="@+id/siFeta"
+                    android:layout_alignBottom="@+id/siFeta"
+                    android:layout_alignEnd="@+id/titol"
+                    android:layout_alignRight="@+id/titol"
+                    android:layout_marginEnd="13dp"
+                    android:layout_marginRight="13dp"
+                    android:text="No" />
+            </RadioGroup>
+
+            <RatingBar
+                android:id="@+id/valoracio"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/radioGroup2"
+                android:layout_alignStart="@+id/radioGroup2"
+                android:layout_below="@+id/radioGroup2"
+                android:layout_marginTop="12dp" />
+
+            <TextView
+                android:id="@+id/informatic"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/textView11"
+                android:layout_alignBottom="@+id/textView11"
+                android:layout_alignLeft="@+id/categoria"
+                android:layout_alignStart="@+id/categoria"
+                android:text="TextView" />
+
+
+
+        </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

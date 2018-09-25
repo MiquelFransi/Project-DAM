@@ -1,0 +1,508 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MYTEC
+</name>
+</assembly>
+<members>
+<member name="T:WindowsApp2.My.Resources.ResourceEs">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Alt">
+<summary>
+  Busca una cadena traducida similar a High.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Baix">
+<summary>
+  Busca una cadena traducida similar a Low.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.be">
+<summary>
+  Busca una cadena traducida similar a Good.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.bt_iniciar">
+<summary>
+  Busca una cadena traducida similar a Log in.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.bt_Registrar">
+<summary>
+  Busca una cadena traducida similar a Sign in.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.bt_Registrar2">
+<summary>
+  Busca una cadena traducida similar a Sign in.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.cognomI">
+<summary>
+  Busca una cadena traducida similar a Last name:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.curricuI">
+<summary>
+  Busca una cadena traducida similar a Resume.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.darrere">
+<summary>
+  Busca una cadena traducida similar a Back.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.DescarregarCur">
+<summary>
+  Busca una cadena traducida similar a Download curriculum.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.dniI">
+<summary>
+  Busca una cadena traducida similar a DNI:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Feta">
+<summary>
+  Busca una cadena traducida similar a Done.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Fetes">
+<summary>
+  Busca una cadena traducida similar a Made.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Guardar">
+<summary>
+  Busca una cadena traducida similar a Create.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.label_baixa">
+<summary>
+  Busca una cadena traducida similar a Drop out.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Label_categ2">
+<summary>
+  Busca una cadena traducida similar a Category:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Label_categoria">
+<summary>
+  Busca una cadena traducida similar a Category:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.label_cognom">
+<summary>
+  Busca una cadena traducida similar a Username:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.label_contra">
+<summary>
+  Busca una cadena traducida similar a Password:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Label_desc2">
+<summary>
+  Busca una cadena traducida similar a Description:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.label_descr">
+<summary>
+  Busca una cadena traducida similar a Description:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.label_dni">
+<summary>
+  Busca una cadena traducida similar a DNI:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Label_Incid">
+<summary>
+  Busca una cadena traducida similar a Incidents:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Label_informatic">
+<summary>
+  Busca una cadena traducida similar a Computer specialist:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.label_nom">
+<summary>
+  Busca una cadena traducida similar a Name:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.label_Poblacio">
+<summary>
+  Busca una cadena traducida similar a Population:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.label_Provincia">
+<summary>
+  Busca una cadena traducida similar a Province:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.label_tit2">
+<summary>
+  Busca una cadena traducida similar a Title:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Label_titol">
+<summary>
+  Busca una cadena traducida similar a Title:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Label1_selec_idioma">
+<summary>
+  Busca una cadena traducida similar a Select language.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Label1_usuario">
+<summary>
+  Busca una cadena traducida similar a User:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.LabelNievell">
+<summary>
+  Busca una cadena traducida similar a Level:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.lavel_valoracio">
+<summary>
+  Busca una cadena traducida similar a Assessment:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.mal">
+<summary>
+  Busca una cadena traducida similar a Bad.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Mitja">
+<summary>
+  Busca una cadena traducida similar a Medium.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.nom_usuari">
+<summary>
+  Busca una cadena traducida similar a Username:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.nomI">
+<summary>
+  Busca una cadena traducida similar a Name:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.NomInformatic">
+<summary>
+  Busca una cadena traducida similar a Incidence Not assigned.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.passI">
+<summary>
+  Busca una cadena traducida similar a Password:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.pobI">
+<summary>
+  Busca una cadena traducida similar a Population:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.provinI">
+<summary>
+  Busca una cadena traducida similar a Province:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.regular">
+<summary>
+  Busca una cadena traducida similar a Regular.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.Si">
+<summary>
+  Busca una cadena traducida similar a Yes.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.sortir">
+<summary>
+  Busca una cadena traducida similar a Exit.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.String1">
+<summary>
+  Busca una cadena traducida similar a d.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceEs.userI">
+<summary>
+  Busca una cadena traducida similar a User:.
+</summary>
+</member>
+<member name="T:WindowsApp2.My.Resources.ResourceCA">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Alt">
+<summary>
+  Busca una cadena traducida similar a Alt.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Baix">
+<summary>
+  Busca una cadena traducida similar a Baix.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Baixa">
+<summary>
+  Busca una cadena traducida similar a Baixa.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.be">
+<summary>
+  Busca una cadena traducida similar a Bé.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.bt_iniciar">
+<summary>
+  Busca una cadena traducida similar a Iniciar.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.bt_Registrar">
+<summary>
+  Busca una cadena traducida similar a Registrar-se.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.bt_Registrar2">
+<summary>
+  Busca una cadena traducida similar a Registrar-se.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.cognomI">
+<summary>
+  Busca una cadena traducida similar a Cognom:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.curricuI">
+<summary>
+  Busca una cadena traducida similar a Curriculum.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.DescarregarCur">
+<summary>
+  Busca una cadena traducida similar a Descarregar Curriculum.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.dniI">
+<summary>
+  Busca una cadena traducida similar a DNI:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Feta">
+<summary>
+  Busca una cadena traducida similar a Feta.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Fetes">
+<summary>
+  Busca una cadena traducida similar a Fetes.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Guardar">
+<summary>
+  Busca una cadena traducida similar a Crear.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.label_baixa">
+<summary>
+  Busca una cadena traducida similar a Donar-se de baixa.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Label_categ2">
+<summary>
+  Busca una cadena traducida similar a Categoria:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Label_categoria">
+<summary>
+  Busca una cadena traducida similar a Categoria:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.label_cognom">
+<summary>
+  Busca una cadena traducida similar a Cognom:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.label_contra">
+<summary>
+  Busca una cadena traducida similar a Contrasenya:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Label_desc2">
+<summary>
+  Busca una cadena traducida similar a Descripció:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.label_descr">
+<summary>
+  Busca una cadena traducida similar a Descripció:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.label_dni">
+<summary>
+  Busca una cadena traducida similar a DNI:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Label_Incid">
+<summary>
+  Busca una cadena traducida similar a Incidències.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Label_informatic">
+<summary>
+  Busca una cadena traducida similar a Informàtic:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.label_nom">
+<summary>
+  Busca una cadena traducida similar a Nom:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.label_Poblacio">
+<summary>
+  Busca una cadena traducida similar a Població:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.label_Provincia">
+<summary>
+  Busca una cadena traducida similar a Província:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.label_tit2">
+<summary>
+  Busca una cadena traducida similar a Títol:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Label_titol">
+<summary>
+  Busca una cadena traducida similar a Títol:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Label1_selec_idioma">
+<summary>
+  Busca una cadena traducida similar a Seleccionar Idioma.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Label1_usuario">
+<summary>
+  Busca una cadena traducida similar a Usuari:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.LabelNievell">
+<summary>
+  Busca una cadena traducida similar a Nivell:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.lavel_valoracio">
+<summary>
+  Busca una cadena traducida similar a Valoració.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.mal">
+<summary>
+  Busca una cadena traducida similar a Malament.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.Mitja">
+<summary>
+  Busca una cadena traducida similar a Mitja.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.nom_usuari">
+<summary>
+  Busca una cadena traducida similar a Nom usuari:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.nomI">
+<summary>
+  Busca una cadena traducida similar a Nom:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.NomInformatic">
+<summary>
+  Busca una cadena traducida similar a Incidència No assignada.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.passI">
+<summary>
+  Busca una cadena traducida similar a Contrasenya.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.pobI">
+<summary>
+  Busca una cadena traducida similar a Població:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.provinI">
+<summary>
+  Busca una cadena traducida similar a Província:.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.regular">
+<summary>
+  Busca una cadena traducida similar a Regular.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.sortir">
+<summary>
+  Busca una cadena traducida similar a Sortir.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.ResourceCA.userI">
+<summary>
+  Busca una cadena traducida similar a Usuari:.
+</summary>
+</member>
+<member name="T:WindowsApp2.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:WindowsApp2.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MYTEC APP</string>
+    <string name="incidencies">Incidències</string>
+    <string name="titol">Títol</string>
+    <string name="descripcio">Descripció</string>
+    <string name="categoria">Categoria</string>
+    <string name="informatic">Informàtic</string>
+    <string name="feta">Feta</string>
+    <string name="valoracio">Valoració</string>
+    <string name="baix">Baix</string>
+    <string name="mitja">Mitja</string>
+    <string name="alt">Alt</string>
+    <string name="crear">Crear</string>
+    <string name="modificar">Modificar</string>
+    <string name="poblacio">Població</string>
+    <string name="provincia">Província</string>
+    <string name="usuari">Usuari</string>
+    <string name="si">Si</string>
+    <string name="contrasenya">Contrasenya</string>
+    <string name="iniciar">Iniciar sessió</string>
+    <string name="nivell">Nivell</string>
+    <string name="assignat">Usuari no Assignat</string>
+    <string name="assignatI">Informátic no Assignat</string>
+    <string name="faqs1">Que és MYtec?</string>
+
+    <string name="faqs2">MYtec és una empresa formada per 3 membres que desenvolupen aplicacions multiplataforma.</string>
+
+    <string name="faqs3">De que va aquesta Aplicació?</string>
+
+    <string name="faqs4">Es una aplicació que permet  la relació entre un client particular que te un problema informàtic i un voluntari (informàtic) qualificat per resoldre el seu problema.</string>
+
+    <string name="faqs5">Com Registrar-se?</string>
+
+    <string name="faqs6">Els usuaris que vulguin Asistencia informàtica es registraran a la aplicació com a clients. I els informàtics que vulguin oferir els seus serveis es registraran com a informàtics.</string>
+
+    <string name="faqs7">Como contacta amb un Informàtic? </string>
+
+
+    <string name="faqs8"> La aplicació, gracies a una borsa de treball, posarà en contacte a traves de un xat el client amb el informàtic mes adequat pel seu tipus de incidència, i ells arribaran a un acord per resoldre la incidència. Un cop resolta la incidència el client valora al  informàtic</string>
+
+
+    <string name="faqs9">Com crear una incidència?</string>
+
+    <string name="faqs10">Una vegada registrat com a usuari ens dirigim l'apartat de crear una incidència, en aquesta finestra hem de omplir un formulari on explicarem el nostre problema i la localització.</string>
+
+
+
+    <string name="sortir">Sortir</string>
+    <string name="gracies">Gràcies, fins la pròxima</string>
+    <string name="faq">Preguntes Freqüents</string>
+    <string name="conI">Contacta amb l'informatic</string>
+    <string name="conU">Contacta amb l'Usuari</string>
+    <string name="meves">Les meves Incidències</string>
+    <string name="obertes">Incidències obertes</string>
+    <string name="crearI">Crear Incidència</string>
+    <string name="obre">Obra una Incidència</string>
+
+</resources>

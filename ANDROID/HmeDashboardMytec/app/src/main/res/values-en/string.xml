@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MYTEC APP</string>
+    <string name="incidencies">Incidences</string>
+    <string name="titol">Title</string>
+    <string name="descripcio">Description</string>
+    <string name="categoria">Category</string>
+    <string name="informatic">Informatic</string>
+    <string name="feta">Done</string>
+    <string name="valoracio">Evaluation</string>
+    <string name="baix">Low</string>
+    <string name="mitja">Medium</string>
+    <string name="alt">High</string>
+    <string name="crear">Create</string>
+    <string name="modificar">Modify</string>
+    <string name="poblacio">Population</string>
+    <string name="provincia">Province</string>
+    <string name="usuari">User</string>
+    <string name="si">Yes</string>
+    <string name="contrasenya">Password</string>
+    <string name="iniciar">Log in</string>
+    <string name="nivell">Level</string>
+    <string name="assignat">User not Assigned</string>
+    <string name="assignatI">Informatic not Assigned</string>
+
+
+    <string name="sortir">Exit</string>
+    <string name="gracies">Thank you, see you next time</string>
+    <string name="faq">Frequent asked questions</string>
+    <string name="conI">Contact to Computer Science</string>
+    <string name="conU">Contac to user</string>
+    <string name="meves">My incidents</string>
+    <string name="obertes">Opened incidents</string>
+    <string name="crearI">Create Incidences</string>
+    <string name="obre">Open Incidences</string>
+
+
+    <string name="faqs1">What is MYtec?</string>
+    <string name="faqs2">MYtec is a company formed by 3 members that develop multi-platform applications.</string>
+    <string name="faqs3">What is this app about?</string>
+    <string name="faqs4">It is an application that allows the relationship between a particular client that has a computer problem and a qualified (computer) volunteer to solve his problem.</string>
+    <string name="faqs5">How to Register?</string>
+    <string name="faqs6">Users who want Computer Assistance are registered to the application as clients. And computer users who want to offer their services will register as computer scientists.</string>
+    <string name="faqs7">How do you contact a computer?</string>
+    <string name="faqs8">The application, thanks to a job bank, will contact the customer with the most suitable computer scientist due to their type of incident, and they will reach an agreement to resolve the incident. Once the incident is resolved, the customer evaluates the computer</string>
+    <string name="faqs9">How to create an incident?</string>
+    <string name="faqs10">Once registered as a user we go to the section to create an incident, in this window we have to fill out a form where we will explain our problem and the location.</string>
+
+
+
+
+
+</resources>

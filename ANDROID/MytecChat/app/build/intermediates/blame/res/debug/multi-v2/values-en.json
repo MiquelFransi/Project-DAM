@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\PROJECTES\\ANDROID\\MytecChat\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en\\values-en.xml",
+            "map": [
+                {
+                    "source": "G:\\PROJECTES\\ANDROID\\MytecChat\\app\\src\\main\\res\\values-en\\strings.xml",
+                    "from": {
+                        "startLines": "1,3,2",
+                        "startColumns": "11,4,4",
+                        "startOffsets": "51,150,99",
+                        "endColumns": "53,39,49",
+                        "endOffsets": "93,185,144"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,102,142",
+                        "endColumns": "46,39,49",
+                        "endOffsets": "97,137,187"
+                    }
+                }
+            ]
+        }
+    ]
+}

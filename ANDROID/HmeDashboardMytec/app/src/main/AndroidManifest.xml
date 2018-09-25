@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.ligu.hmedashboardmytec">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="MYTEC APP"
+        android:roundIcon="@drawable/lgogmytec"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Home" />
+        <activity android:name=".faqs" />
+        <activity android:name=".chat" />
+        <activity android:name=".crear" />
+        <activity android:name=".meves" />
+        <activity android:name=".sortir" />
+        <activity android:name=".HomeInfo" />
+        <activity android:name=".MevesInfo" />
+        <activity android:name=".chatInfor"></activity>
+    </application>
+
+</manifest>
